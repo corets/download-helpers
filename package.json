@@ -1,5 +1,5 @@
 {
-  "name": "@corets/fetcb-helpers",
+  "name": "@corets/save-helpers",
   "version": "0.0.0",
   "author": "Maxim Kott",
   "license": "MIT",
@@ -8,7 +8,7 @@
   "files": [
     "/dist"
   ],
-  "repository": "github:corets/download-helpers",
+  "repository": "github:corets/save-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"

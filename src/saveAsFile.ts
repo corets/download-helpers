@@ -1,6 +1,6 @@
-import { DownloadAsFile } from "./types"
+import { SaveAsFile } from "./types"
 
-export const downloadAsFile: DownloadAsFile = (
+export const saveAsFile: SaveAsFile = (
   fileName,
   data,
   contentType = "application/octet-stream"
