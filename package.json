@@ -1,7 +1,7 @@
 {
   "name": "@corets/save-helpers",
   "description": "Various helpers related to file saving specific functionality",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": "Maxim Kott",
   "license": "MIT",
   "main": "./dist/index.js",
