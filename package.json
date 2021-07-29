@@ -21,7 +21,7 @@
     "/dist"
   ],
   "repository": "github:corets/save-helpers",
-  "homepage": "https://corets.github.io/save-helpers",
+  "homepage": "https://docs.corets.io/helpers/save-helpers",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"
